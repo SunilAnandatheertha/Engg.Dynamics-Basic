@@ -1,0 +1,53 @@
+\BOOKMARK [-1][-]{part.1}{Part I Review of statics and dynamics}{}% 1
+\BOOKMARK [-1][-]{part.2}{Part II Engineering Mechanics-Dynamics: Kinematics of particles}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{part.2}% 3
+\BOOKMARK [1][-]{subsection.1.0.1}{Frame of reference}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.0.2}{Scalars and vectors}{subsection.1.0.1}% 5
+\BOOKMARK [2][-]{subsection.1.0.3}{Distance and displacement}{subsection.1.0.1}% 6
+\BOOKMARK [2][-]{subsection.1.0.4}{Speed and velocity}{subsection.1.0.1}% 7
+\BOOKMARK [2][-]{subsection.1.0.5}{Velocity}{subsection.1.0.1}% 8
+\BOOKMARK [2][-]{subsection.1.0.6}{Constant velocity}{subsection.1.0.1}% 9
+\BOOKMARK [2][-]{subsection.1.0.7}{Acceleration}{subsection.1.0.1}% 10
+\BOOKMARK [2][-]{subsection.1.0.8}{Constant acceleration}{subsection.1.0.1}% 11
+\BOOKMARK [2][-]{subsection.1.0.9}{Variable acceleration: a = a\(t\), a = a\(v\) and a = a\(s\)}{subsection.1.0.1}% 12
+\BOOKMARK [2][-]{subsection.1.0.10}{Practical cases of constant acceleration}{subsection.1.0.1}% 13
+\BOOKMARK [2][-]{subsection.1.0.11}{Practical cases of variable acceleration}{subsection.1.0.1}% 14
+\BOOKMARK [2][-]{subsection.1.0.12}{Working with variable acceleration problems}{subsection.1.0.1}% 15
+\BOOKMARK [1][-]{section.1.1}{Co-ordinate systems}{chapter.1}% 16
+\BOOKMARK [1][-]{section.1.2}{Rectangular coordinates}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.3}{Normal and tangential co-ordinates}{chapter.1}% 18
+\BOOKMARK [1][-]{section.1.4}{Polar co-ordinates}{chapter.1}% 19
+\BOOKMARK [1][-]{section.1.5}{Space curvilinear motion}{chapter.1}% 20
+\BOOKMARK [1][-]{section.1.6}{Relative motion with translating axis}{chapter.1}% 21
+\BOOKMARK [1][-]{section.1.7}{Constrained motion of connected bodies}{chapter.1}% 22
+\BOOKMARK [0][-]{chapter.2}{Kinematics of particles}{part.2}% 23
+\BOOKMARK [1][-]{section.2.1}{Rectilinear motion and Plane curvilinear motion}{chapter.2}% 24
+\BOOKMARK [-1][-]{part.3}{Part III Engineering Mechanics-Dynamics: Kinetics of particles}{}% 25
+\BOOKMARK [0][-]{chapter.3}{Inertia}{part.3}% 26
+\BOOKMARK [1][-]{subsection.3.0.1}{Invariance of mass with velocity: Direction and magnitude}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.1}{Mass moments of inertia: Ixx, Iyy, Izz}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.1.1}{Conceptual development}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.2}{Mathematical development}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.3}{Physical interpretations}{section.3.1}% 31
+\BOOKMARK [2][-]{subsection.3.1.4}{Advanced treatise 1: Working with variable mass}{section.3.1}% 32
+\BOOKMARK [2][-]{subsection.3.1.5}{Advanced treatise 2: Working with flexible bodies}{section.3.1}% 33
+\BOOKMARK [2][-]{subsection.3.1.6}{Advanced treatise 3: Working with flexible bodies with variable mass}{section.3.1}% 34
+\BOOKMARK [1][-]{section.3.2}{Products of mass moments of inertia: Ixy, Iyz, Izx}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.2.1}{Conceptual development}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.2}{Mathematical development}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.3}{Physical interpretations}{section.3.2}% 38
+\BOOKMARK [1][-]{section.3.3}{Inertia tensor}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.1}{Conceptual development}{section.3.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.2}{Mathematical development}{section.3.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.3}{Physical interpretations}{section.3.3}% 42
+\BOOKMARK [1][-]{section.3.4}{Principal moments and axes of inertia}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.4.1}{Conceptual development}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.2}{Mathematical development}{section.3.4}% 45
+\BOOKMARK [2][-]{subsection.3.4.3}{Physical interpretations}{section.3.4}% 46
+\BOOKMARK [-1][-]{part.4}{Part IV Engineering Mechanics-Dynamics: Kinematics of rigid bodies}{}% 47
+\BOOKMARK [-1][-]{part.5}{Part V Engineering Mechanics-Dynamics: Kinetics of rigid bodies}{}% 48
+\BOOKMARK [-1][-]{part.6}{Part VI Analytical Mechanics}{}% 49
+\BOOKMARK [-1][-]{part.7}{Part VII Engineering Mechanics-Dynamics: Vibration of rigid bodies}{}% 50
+\BOOKMARK [-1][-]{part.8}{Part VIII Engineering Mechanics-Dynamics: Flexible body kinematics}{}% 51
+\BOOKMARK [-1][-]{part.9}{Part IX Engineering Mechanics-Dynamics: Flexible body kinetics}{}% 52
+\BOOKMARK [-1][-]{part.10}{Part X Engineering Mechanics-Dynamics: Vibration of flexible bodies}{}% 53

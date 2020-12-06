@@ -1,0 +1,127 @@
+%------------------------------------------------------------------------------------------------------------------------
+\documentclass[]{book}
+%------------------------------------------------------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{courier}
+\usepackage{fancyvrb}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{mindmap,trees}
+%\graphicspath{{./figures/}}
+\usepackage[]{natbib}
+%\usepackage{chapterbib}
+%------------------------------------------------------------------------------------------------------------------------
+\bibliographystyle%
+  {wileynum}%for numerical citation and numerically listed entries in the bibliography
+  %{wileyauy}%for author--year citation and alphabetical order in the bibliography
+\usepackage{wileySTM}
+\usepackage[\ifnum\pdfoutput=1breaklinks\fi]{hyperref}
+\author{Sunil Anandatheertha}\title{A Textbook and Treatise on Engineering and Analytical  Mechanics}
+%\includeonly{}
+%------------------------------------------------------------------------------------------------------------------------
+\begin{document}
+\frontmatter
+\include{foreword}
+\tableofcontents
+\include{preface}
+\mainmatter
+%------------------------------------------------------------------------------------------------------------------------
+%\textcolor{blue}{}
+%------------------------------------------------------------------------------------------------------------------------
+{\flushleft\textbf{Foreword}}
+\vspace{1cm}
+\newpage
+{\flushleft\textbf{Preface}}
+\vspace{1cm}
+%------------------------------------------------------------------------------------------------------------------------
+This book is intended to bridge the gap between the academic treatment of basic engineering dynamics and advanced engineering dynamics, for both students, instructors, engineers and the like. The treatment provided mostly follows and builds on the treatment of the subject in the book "Engineering Mechanics Dynamics SI Version by J. L. Meriam and L. G. Kraige. 7$^{th}$" edition.
+
+The physical world that we see, experience and take part in, is seamlessly governed by many underlying laws which goes un-noticed to the untrained `eye'. It is one of the motive of this book to enable the reader to train their eyes which would empower them to understand many aspects of the happenings in the physical world in a reasoned, quantitative, qualitative and predictable manner. The text is designed to expose the reader to a number of methods, basic and advanced, qualitative and quantitative, in which a problem can be looked at, unde0rstood and solved. Approaches provided in this work range from intuitive to force-mass-acceleration approach to impulse and momentum approach to energy methods. A problem which can be solved very easily using elementary approaches is also solved using powerful approaches such as Lagrangian's and Hamilton's approach so that these difficult concepts can be easily understood and applied.
+
+\textbf{One of the most important pedagogical approaches} in this book is the generalizations of a problem. A seemingly simple problem of engineering mechanics dynamics is taken to hand, solved, generalized to a next level, solved, again generalized to a next level and solved, and this in this way, many levels of generalizations of a problem are provided. In the experience of the author, this provides the reader with a hierarchical knowledge of underlying concepts, methods, their applicability, limitations and powers.
+
+Computer methods of solving a problem in engineering mechanics dynamics which can be done using pen and paper and numerical approach is also provided to a great extent in order to aid \textbf{A} detailed analysis and solution to the problem at hand, \textbf{B} learning, understanding and application of numerous computer tools and numerical techniques available today, and \textbf{C} advanced computer visualizations of the solution obtained.
+
+\textbf{Note on reading `analysis' sections}: Analysis sections are written every now and then, with an intension to provide a different and/or deeper and/or different perspective and understanding of a concept or definition or observation or behavior or even a mathematical result/expression/development. The content, grammar and construct of analysis sections is written to render themselves slightly in-accessible to most beginner readers/students in the first reading, but has been designed and written so as convey a deeper understanding once they are visited after a few problems are  solved, understood and mastered. Nevertheless, it is needed to gain a deeper insight and understanding into the subject at hand.
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Review of statics and dynamics} %Part1_C**.tex
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Engineering Mechanics-Dynamics: Kinematics of particles} %Part2_C**.tex
+%\begin{tikzpicture}
+%  \path[mindmap,concept color=black,text=white]
+%    node[concept, scale = 0.65] {Kinematics of particles}
+%    [clockwise from=0]
+%    child[concept color=green!50!black, scale = 0.8] {
+%      node[concept] {practical}
+%      [clockwise from=90]
+%      child { node[concept, scale = 0.6] {algorithms} }
+%      child { node[concept, scale = 0.6] {data structures} }
+%      child { node[concept, scale = 0.6] {pro\-gramming languages} }
+%      child { node[concept, scale = 0.6] {software engineer\-ing} }
+%    }  
+%    child[concept color=blue] {
+%      node[concept] {applied}
+%      [clockwise from=-30]
+%      child { node[concept] {databases} }
+%      child { node[concept] {WWW} }
+%    }
+%    child[concept color=red] { node[concept] {technical} }
+%    child[concept color=orange] { node[concept] {theoretical} };
+%\end{tikzpicture}
+% Introduction to kinematics of particles
+	\include{Part2_c01}
+% Introduction to kinematics of particles
+	\include{Part2_c02}
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Engineering Mechanics-Dynamics: Kinetics of particles}
+% Inertia of bodies
+	\include{Part3_c01_inertia}
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Engineering Mechanics-Dynamics: Kinematics of rigid bodies}
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Engineering Mechanics-Dynamics: Kinetics of rigid bodies}
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Analytical Mechanics}
+% Mathematical preliminaries
+% Co-ordinates
+% Lagrangian mechanics
+% Hamiltonian mechanics
+% Routhian mechanics
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\part{Engineering Mechanics-Dynamics: Vibration of rigid bodies}
+\part{Engineering Mechanics-Dynamics: Flexible body kinematics}
+\part{Engineering Mechanics-Dynamics: Flexible body kinetics}
+\part{Engineering Mechanics-Dynamics: Vibration of flexible bodies}
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------------
+\appendix
+\include{a01}
+\backmatter
+\include{b01}
+\printindex
+\end{document}
